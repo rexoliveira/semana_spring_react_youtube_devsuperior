@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DsmetaApplication<dsmeta>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rodrigooliveira.dsmeta.DsmetaApplication",
+            "projectName": "dsmeta",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
